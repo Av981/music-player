@@ -1,0 +1,11 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "by using html and css creating a music player",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avnish",
+  "license": "ISC"
+}
